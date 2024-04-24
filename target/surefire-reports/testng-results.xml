@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-19T10:36:49 GMT-05:00" name="Suite" finished-at="2024-04-19T10:38:11 GMT-05:00" duration-ms="82331">
+    <groups>
+    </groups>
+    <test started-at="2024-04-19T10:36:49 GMT-05:00" name="Test" finished-at="2024-04-19T10:38:11 GMT-05:00" duration-ms="82331">
+      <class name="Testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.LoginTest@5032714f]" started-at="2024-04-19T10:37:31 GMT-05:00" name="setup" finished-at="2024-04-19T10:37:32 GMT-05:00" duration-ms="1820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.LoginTest@5032714f]" started-at="2024-04-19T10:37:32 GMT-05:00" name="Login" data-provider="Data" finished-at="2024-04-19T10:37:44 GMT-05:00" duration-ms="11538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vlakshmi123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.LoginTest@5032714f]" started-at="2024-04-19T10:37:44 GMT-05:00" name="teardown" finished-at="2024-04-19T10:37:44 GMT-05:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.LoginTest -->
+      <class name="Testcases.ProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.ProductTest@48bb62]" started-at="2024-04-19T10:37:44 GMT-05:00" name="setup" finished-at="2024-04-19T10:37:47 GMT-05:00" duration-ms="3041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddProduct()[pri:0, instance:Testcases.ProductTest@48bb62]" started-at="2024-04-19T10:37:47 GMT-05:00" name="AddProduct" finished-at="2024-04-19T10:38:10 GMT-05:00" duration-ms="23423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.ProductTest@48bb62]" started-at="2024-04-19T10:38:10 GMT-05:00" name="teardown" finished-at="2024-04-19T10:38:11 GMT-05:00" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.ProductTest -->
+      <class name="Testcases.AddProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.AddProductTest@6e9175d8]" started-at="2024-04-19T10:36:49 GMT-05:00" name="setup" finished-at="2024-04-19T10:37:02 GMT-05:00" duration-ms="13717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addproducts()[pri:0, instance:Testcases.AddProductTest@6e9175d8]" started-at="2024-04-19T10:37:02 GMT-05:00" name="addproducts" finished-at="2024-04-19T10:37:30 GMT-05:00" duration-ms="27454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproducts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.AddProductTest@6e9175d8]" started-at="2024-04-19T10:37:30 GMT-05:00" name="teardown" finished-at="2024-04-19T10:37:31 GMT-05:00" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.AddProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

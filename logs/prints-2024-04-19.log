@@ -1,0 +1,9 @@
+11:27:48.237 [main] DEBUG Base.Base1 - opened the website
+11:27:49.581 [main] DEBUG Base.Base1 - Login button clicked
+11:27:49.956 [main] DEBUG Base.Base1 - Email and password entered
+11:27:59.313 [main] DEBUG Base.Base1 - launched the browser
+11:27:59.313 [main] DEBUG Base.Base1 - opened the website
+11:28:14.049 [main] DEBUG Base.Base1 - opened the website
+11:28:14.327 [main] DEBUG Base.Base1 - clicked on my account dropdown
+11:28:15.685 [main] DEBUG Base.Base1 - email got entered
+11:28:15.858 [main] DEBUG Base.Base1 - password got printed

@@ -1,0 +1,7 @@
+11:28:17.193 [main] INFO  Base.Base1 - login test got passed
+11:28:17.211 [main] DEBUG Base.Base1 - launched the browser
+11:28:17.211 [main] DEBUG Base.Base1 - opened the website
+11:28:35.186 [main] DEBUG Base.Base1 - opened the website
+11:28:35.307 [main] DEBUG Base.Base1 - Browser initialized
+11:28:36.541 [main] DEBUG Base.Base1 - Login button clicked
+11:28:36.996 [main] DEBUG Base.Base1 - Email and password entered
