@@ -42,6 +42,7 @@ public class FailedTest extends Base1 {
 		        Thread.sleep(5000);
 		        add.getlaptop().click();
 		        Assert.assertTrue(false);
+		        System.out.println("code commit");
 		       
 		    
 		        
