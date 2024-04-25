@@ -11,6 +11,7 @@ import PageObjects.AddProduct;
 import PageObjects.LandingPage;
 import PageObjects.RegisterPage;
 import PageObjects.SearchProducts;
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 
 public class FailedTest extends Base1 {
 
@@ -42,7 +43,7 @@ public class FailedTest extends Base1 {
 		        Thread.sleep(5000);
 		        add.getlaptop().click();
 		        Assert.assertTrue(false);
-		        System.out.println("code commit");
+		      System.out.println("new branch is created");
 		       
 		    
 		        
